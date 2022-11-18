@@ -29,3 +29,4 @@ or, manually:
    pdflatex longsample
    pdflatex longsample
 
+# latex-eassy-format
